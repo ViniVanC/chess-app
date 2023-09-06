@@ -30,6 +30,14 @@
   width: 12.5%;
   height: 12.5%;
 }
+.promote-square {
+  width: 50%;
+  height: 50%;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
 
 .square-black {
   background-color: #b59963;
@@ -55,5 +63,5 @@
 
 .piece {
   max-width: 70%;
-  max-height: 70%; 
+  max-height: 70%;
 }
